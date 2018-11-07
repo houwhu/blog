@@ -9,11 +9,11 @@ menu:
 
 # SubNav
 subnav:
-  # github: "#"
-  # zhihu: "#"
-  # mail: "#"
-  # qq: "#"
-  # weibo: "#"
+   github: "https://github.com/houwhu/blog"
+   zhihu: "https://www.zhihu.com/people/axe-fu-zi/activities"
+   mail: "1065440895@qq.com"
+   #qq: "#"
+   weibo: "https://weibo.com/2908056451/profile?topnav=1&wvr=6&is_all=1"
   # rss: "#"
   #douban: "#"
   #facebook: "#"
