@@ -1,11 +1,10 @@
-# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
 title: 斧子的博客专栏
-subtitle: 学前端
-description:
+subtitle: 前端爱好者
+description: 
 keywords:
 author: 斧子Axe
 language:
