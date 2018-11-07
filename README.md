@@ -1,3 +1,3 @@
 # blog
 this is my blog
-[x] 成部署
++[] 成部署
