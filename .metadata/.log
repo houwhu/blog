@@ -1,0 +1,69 @@
+!SESSION 2018-11-08 10:37:45.849 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -login -application com.aptana.commandline.launcher.LauncherApplication C:\Program Files\Git\mingw64\share\doc\git-doc\git-push.html
+Command-line arguments:  -os win32 -ws win32 -arch x86 -login -data   -application com.aptana.commandline.launcher.LauncherApplication C:\Program Files\Git\mingw64\share\doc\git-doc\git-push.html
+
+!ENTRY org.eclipse.ui 2 0 2018-11-08 10:37:46.447
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-11-08 10:37:46.447
+!MESSAGE Could not parse key sequence: plug-in='com.pandora.ui', id='org.eclipse.ui.edit.text.contentAssist.proposals', keySequence='Ctrl+Sapce'
+
+!ENTRY com.aptana.rcp 4 0 2018-11-08 10:37:46.613
+!MESSAGE ********HBuilder正常启动：preStartup********
+
+!ENTRY com.aptana.scripting 4 0 2018-11-08 10:37:47.787
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'Build–in constant' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.scripting 4 0 2018-11-08 10:37:47.789
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'library class/type' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.rcp 4 0 2018-11-08 10:37:48.159
+!MESSAGE ---------------------start check----------------------
+
+!ENTRY com.aptana.rcp 4 0 2018-11-08 10:37:48.159
+!MESSAGE check mode
+
+!ENTRY com.aptana.rcp 4 0 2018-11-08 10:37:48.236
+!MESSAGE workspace : file:\D:\hexo
+
+!ENTRY com.aptana.rcp 4 0 2018-11-08 10:37:48.592
+!MESSAGE ********HBuilder正常启动：postStartup********
+
+!ENTRY com.pandora.rcp.upgrade 4 0 2018-11-08 10:37:48.673
+!MESSAGE (Build null) [ERROR]  HBuilder当前版本: 9.0.2.201803061935
+
+!ENTRY com.pandora.tools.android 4 0 2018-11-08 10:37:49.095
+!MESSAGE (Build null) [ERROR]  ADB PID:::4280
+
+!ENTRY com.pandora.tools.android 4 0 2018-11-08 10:37:49.187
+!MESSAGE (Build null) [ERROR]  ===Caption  ExecutablePath
+
+!ENTRY com.pandora.tools.android 4 0 2018-11-08 10:37:49.188
+!MESSAGE (Build null) [ERROR]  ===adb.exe  D:\HBuilder\HBuilder\tools\adbs\adb.exe
+
+!ENTRY com.pandora.tools.android 4 0 2018-11-08 10:37:49.189
+!MESSAGE (Build null) [ERROR]  exe===adb.exe   path===d:\hbuilder\hbuilder\tools\adbs\adb.exe
+
+!ENTRY com.pandora.tools.android 4 0 2018-11-08 10:37:49.190
+!MESSAGE (Build null) [ERROR]  ADB Path===d:\hbuilder\hbuilder\tools\adbs\adb.exe
+
+!ENTRY com.aptana.scripting 4 0 2018-11-08 10:37:50.405
+!MESSAGE (Build null) [ERROR]  loadBundles异常
+!STACK 0
+org.jruby.exceptions.RaiseException: (Errno::EINVAL) =D:
+	at org.jruby.RubyHash.replace(org/jruby/RubyHash.java:1623)
+
+!ENTRY org.eclipse.equinox.p2.repository 4 0 2018-11-08 10:38:33.504
+!MESSAGE D:\HBuilder\HBuilder\p2\org.eclipse.equinox.p2.repository\cache\content-561804826.jar 是合法的jar
+
+!ENTRY org.eclipse.equinox.p2.repository 4 0 2018-11-08 10:39:17.898
+!MESSAGE D:\HBuilder\HBuilder\p2\org.eclipse.equinox.p2.repository\cache\content1190459293.jar 是合法的jar
+
+!ENTRY com.pandora.rcp.upgrade 4 0 2018-11-08 10:39:18.316
+!MESSAGE (Build null) [ERROR]  最新版本: 9.1.25.201810101806
+
+!ENTRY com.pandora.rcp.upgrade 4 0 2018-11-08 10:39:18.335
+!MESSAGE (Build null) [ERROR]  上次提醒更新版本: 9.1.25.201810101806

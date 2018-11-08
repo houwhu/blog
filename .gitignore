@@ -1,3 +1,5 @@
 .DS_Store
 node_modules
 smackdown
+.deploy_git
+public

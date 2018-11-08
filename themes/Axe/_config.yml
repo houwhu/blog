@@ -39,7 +39,7 @@ open_in_new: false
 # baidu_tongji: true
 # google_analytics: true
 
-favicon: http://thyrsi.com/t6/405/1541148626x-1376440138.jpg
+favicon: /img/favicon.ico
 #你的头像url
 avatar: http://thyrsi.com/t6/405/1541148626x-1376440138.jpg
 
