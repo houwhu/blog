@@ -202,19 +202,18 @@
     margin-top: 30px;
     color: #ffd;
   }
-  h2{
+  h2,h3,h4{
     margin-top: 20px;
     font-weight: 300;
     color: #ffd;
     padding-bottom: 5px;
     border-bottom: 1px solid #ddd;
   }
-  h3,h4,h5,h6{
+  h5,h6{
     margin-top: 20px;
     font-weight: 300;
     color: #ffd;
     padding-bottom: 5px;
-    border-bottom: 1px solid #ddd;
   }
   video{
     max-width: 100%;
@@ -261,12 +260,17 @@
     }
     thead{
       tr {
-        background: #f8f8f8;
+        background: rgba(185,170,170,0.4);
+    	color: #ca8db1;
       }
     }
     tbody{
+      tr:nth-of-type(even){
+      	background: rgba(185,170,170,0.2);
+      }
       tr:hover{
         background: #efefef;
+    	color: #ca8db1;
       }
     }
     td,th{
