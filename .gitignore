@@ -1,5 +1,9 @@
 .DS_Store
 node_modules
 smackdown
+<<<<<<< HEAD
 .deploy_git
 public
+=======
+public
+>>>>>>> 5e427556ec3b6813aeca9795176ae05861a55aa4
