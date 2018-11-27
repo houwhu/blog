@@ -41,7 +41,7 @@ open_in_new: false
 
 favicon: /img/favicon.ico
 #你的头像url
-avatar: http://thyrsi.com/t6/405/1541148626x-1376440138.jpg
+avatar: /img/fuzi.jpg
 
 #是否开启分享
 share: true
