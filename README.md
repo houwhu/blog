@@ -2,7 +2,7 @@
 ---
 ### 前端基础知识学习计划
 #### 1、ES基础知识
-+ [x] let 和 const 命令    [ 文档 ](https://es6.ruanyifeng.com/#docs/let)        
++ [x] [let 和 const 命令](https://es6.ruanyifeng.com/#docs/let)        
 + [x] 变量的解构赋值          
 + [ ] 字符串的扩展
 + [ ] 正则的扩展              
