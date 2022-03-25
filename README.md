@@ -1,3 +1,7 @@
+<div align=right>
+English | <a href="README.zh-CN.md">中文文档</a>
+</div>
+
 # Hexo
 ![](https://img.shields.io/badge/Deploy-passing-success)
 ![](https://img.shields.io/badge/Hexo-5.1.1-orange)
