@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://houwhu.github.io/hwh-blog.github.io/
-permalink: :year/:month/:day/:title/
+url: https://houwhu.github.io/
+permalink: posts/:abbrlink.html
 permalink_defaults:
 
 # Directory
@@ -82,3 +82,25 @@ deploy:
   type: git
   repo: git@github.com:houwhu/houwhu.github.io.git
   branch: master
+
+
+# local search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+# 设置博客单词统计
+symbols_count_time:
+  # 文章字数统计
+  symbols: true
+  # 文章阅读时间统计
+  time: true
+  # 站点总字数统计
+  total_symbols: false
+  # 站点总阅读时间统计
+  total_time: false
+  exclude_codeblock: false
+  awl: 4 #平均字长
+  wpm: 270 #每分钟字数

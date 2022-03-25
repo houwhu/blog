@@ -1,6 +1,8 @@
 ---
-title: categories
+title: 分类
 date: 2018-11-05 16:35:31
+type: "categories"
+comments: false
 ---
 category_map:
         hexo:hexo

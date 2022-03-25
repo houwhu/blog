@@ -1,10 +1,11 @@
 ---
-title: markdown的基本用法
-date: 2022-03-21 14:36:20
-tags: 
-- markdown 
+title: Markdown的基本用法
+tags:
+  - markdown
 categories:
-- markdown	
+  - markdown
+abbrlink: 23402
+date: 2022-03-21 14:36:20
 ---
  # 1、标题
  ## 1.1、使用 = 和 - 标记一级和二级标题

@@ -1,13 +1,14 @@
 ---
 title: state-hook
-date: 2018-11-27 16:58:47
-type: 'tags'
+type: tags
 tags:
-- react
-- react-hooks
+  - react
+  - react-hooks
 categories:
-- react
-- react-hooks
+  - react
+  - react-hooks
+abbrlink: 21683
+date: 2018-11-27 16:58:47
 ---
 
 ## state-hook

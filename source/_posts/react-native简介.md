@@ -1,11 +1,12 @@
 ---
 title: react-native简介
-date: 2018-11-05 15:19:45
-type: 'tags'
-tags:                 
-- react-native
+type: tags
+tags:
+  - react-native
 categories:
-- react-native
+  - react-native
+abbrlink: 34135
+date: 2018-11-05 15:19:45
 ---
 ### 用 React 编写移动应用 React Native <img src='https://www.oschina.net/build/oschina/project/stylesheets/imgs/badge_recommend.svg' width="20" height="20"/>
 **ReactNative ** 可以基于目前大热的开源JavaScript库React.js来开发iOS和Android原生App。而且React Native已经用于生产环境——Facebook Groups iOS 应用就是基于它开发的。

@@ -1,13 +1,14 @@
 ---
 title: Effect-Hook
-date: 2018-11-27 13:22:17
-type: 'tags'
+type: tags
 tags:
-- react
-- react-hooks
+  - react
+  - react-hooks
 categories:
-- react	
-- react-hooks
+  - react
+  - react-hooks
+abbrlink: 3932
+date: 2018-11-27 13:22:17
 ---
 ## effect-hook
 

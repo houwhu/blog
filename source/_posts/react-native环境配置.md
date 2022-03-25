@@ -1,11 +1,12 @@
 ---
 title: react-native环境配置
-date: 2018-11-07 22:41:17
-type: 'tags'
-tags:                 
-- react-native
+type: tags
+tags:
+  - react-native
 categories:
-- react-native
+  - react-native
+abbrlink: 1455
+date: 2018-11-07 22:41:17
 ---
 
 ### react-native window开发环境搭建

@@ -1,10 +1,11 @@
 ---
 title: setState
-date: 2018-11-27 13:10:53
 tags:
-- react
+  - react
 categories:
-- react	
+  - react
+abbrlink: 35409
+date: 2018-11-27 13:10:53
 ---
 
 

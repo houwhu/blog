@@ -1,12 +1,13 @@
 ---
 title: react-native组件的生命周期
-date: 2018-11-08 17:47:23
-type: 'tags'
-tags:                 
-- react-native
-- react
+type: tags
+tags:
+  - react-native
+  - react
 categories:
-- react-native
+  - react-native
+abbrlink: 64393
+date: 2018-11-08 17:47:23
 ---
 
 ## 概述
